@@ -1,5 +1,5 @@
 Hi everybody and welcome to my project page.
-This is my first GitHub project and every hint given will be very appreciated!
+This is my first GitHub project.
 
 I started studying Java by myself about two weeks ago and I want to realize a simple mobile app for Android (first) and iOS (maybe) to learn new programming languages. I know Android uses Java for coding and I want to start from here. 
 
@@ -20,6 +20,6 @@ What I'm looking for:
 
 My project is growing day by day and the I will update further progress. My current work is shown in the issues tab. 
 
-Thanks for your time and contribution
+Thanks for your time and contribution. Every hint will be really appreciated!
 
 Alessandro
